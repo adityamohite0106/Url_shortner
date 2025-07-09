@@ -19,7 +19,7 @@ This is a RESTful backend application built using **NestJS** and **MongoDB** tha
 🌐 **Backend URL**: [https://url-shortner-nrkd.onrender.com](https://url-shortner-nrkd.onrender.com)  
 📄 **Swagger Docs**: [https://url-shortner-nrkd.onrender.com/docs](https://url-shortner-nrkd.onrender.com/docs)  
 
-⚠️ **Note**: This backend is hosted on a free Render server, which may show `Bad Gateway` or `Service Unavailable` errors while waking up. Please try again after a few minutes — or watch the full demo in the [YouTube video](https://your-youtube-link.com).
+⚠️ **Note**: This backend is hosted on a free Render server, which may show `Bad Gateway` or `Service Unavailable` errors while waking up. Please try again after a few minutes — or watch the full demo in the [YouTube video](https://youtu.be/SqWJUp3c9KI?si=IxDKa0UhFEnWIvsG).
 
 
 ---
