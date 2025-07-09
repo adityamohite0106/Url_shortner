@@ -13,6 +13,8 @@ This is a RESTful backend application built using **NestJS** and **MongoDB** tha
 - ✅ Swagger API documentation
 
 ---
+<img width="947" alt="image" src="https://github.com/user-attachments/assets/e67c128f-316e-4ab0-a616-4f6a81ef5438" />
+
 
 ## 🚀 Live Deployment
 
